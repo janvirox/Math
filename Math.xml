@@ -15,7 +15,9 @@
               <block type="math_arithmetic" id="230" inline="true">
                 <field name="OP">MINUS</field>
                 <value name="A">
-                  <block type="math_random" id="237"></block>
+                  <block type="math_number" id="280">
+                    <field name="NUM">100</field>
+                  </block>
                 </value>
                 <value name="B">
                   <block type="math_number" id="278">
@@ -40,7 +42,9 @@
                   <block type="math_arithmetic" id="238" inline="true">
                     <field name="OP">MINUS</field>
                     <value name="A">
-                      <block type="math_random" id="239"></block>
+                      <block type="math_number" id="281">
+                        <field name="NUM">100</field>
+                      </block>
                     </value>
                     <value name="B">
                       <block type="math_number" id="279">
