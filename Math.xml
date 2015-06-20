@@ -18,9 +18,7 @@
                   <block type="math_random" id="237"></block>
                 </value>
                 <value name="B">
-                  <block type="math_number" id="258">
-                    <field name="NUM">50</field>
-                  </block>
+                  <block type="math_random" id="275"></block>
                 </value>
               </block>
             </value>
@@ -43,9 +41,7 @@
                       <block type="math_random" id="239"></block>
                     </value>
                     <value name="B">
-                      <block type="math_number" id="259">
-                        <field name="NUM">50</field>
-                      </block>
+                      <block type="math_random" id="277"></block>
                     </value>
                   </block>
                 </value>
